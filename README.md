@@ -1,8 +1,7 @@
 
 ![cover](https://github.com/mesege1/dprk_missile_stats/assets/135185712/8981a27e-319a-4aa3-b5b7-5e54cebad933)
 
-# North Korea's Historic Missile Testing Data Analysis Between 1984 and 2022
-
+# Analysis of North Korea's Missile Testing Data Between 1984 and 2022. 
 Course of Action Plan
 What do I want to do?
 1. Group bY Facilities and measure the numbers of test
