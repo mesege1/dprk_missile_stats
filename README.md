@@ -14,26 +14,24 @@ Therefore, analyzing North Korean missile data is vital for understanding the se
 4. Analyzing DPRK military & economy trends
 
 # What we reviewed
-Overview of DPRK missile facility locations 
-Number of missile tests by timeline with historical events
-Number of successes and failures by facility names
-DPRK missile traveled distance expansions by timeline
-DPRK missile landing location groups
+1. Overview of DPRK missile facility locations 
+2. Number of missile tests by timeline with historical events
+3. Number of successes and failures by facility names
+4. DPRK missile traveled distance expansions by timeline
+5. DPRK missile landing location groups
 
 # Data of interest
-Facility names
-Facility locations (Lat/Lon)
-Test dates
-Travel Distance
-Landing locations
-Test outcomes
+1. Facility names
+2. Facility locations (Lat/Lon)
+3. Test dates
+4. Travel Distance
+5. Landing locations
+6. Test outcomes
 
 # Data cleaning process
-Changed ‘str’ values to ‘int’ or ‘float’
-- Example: (km) values in the distance column
-Replaced ‘Unknown’ values to ‘NaN’
-Created new columns with given data
-- Example: ‘Year’, ‘YYYYMM’ from dates column
+1. Changed ‘str’ values to ‘int’ or ‘float’
+2. Replaced ‘Unknown’ values to ‘NaN’
+3. Created new columns with given data
 
 # Overview of facility locations
 ![image](https://github.com/mesege1/dprk_missile_stats/assets/135185712/1efb4a62-aa80-4392-8f86-cdb3340083c8)
