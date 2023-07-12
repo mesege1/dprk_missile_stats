@@ -47,10 +47,10 @@ link: https://www.nti.org/analysis/articles/cns-north-korea-missile-test-databas
 ![image](https://github.com/mesege1/dprk_missile_stats/assets/135185712/379f36fe-971b-462a-bce3-81f934e1139f)
 
 # Missile traveled distance expansions
-![missile_distance](https://github.com/mesege1/dprk_missile_stats/assets/135185712/440940a0-32af-4d5b-bd96-1d2f161ee160)
+![missile_distance](https://github.com/mesege1/dprk_missile_stats/assets/135185712/dd99de04-01ab-423a-bb5f-64b5f52e2f09)
 
 # Number of missile test by type
-![test_by_type](https://github.com/mesege1/dprk_missile_stats/assets/135185712/b580733b-2b07-4f37-a82c-6b9feb8447da)
+![test_by_type](https://github.com/mesege1/dprk_missile_stats/assets/135185712/bbc22965-9139-43a8-bf82-6a21de1813f2)
 
 # Missile landing locations
 ![landing_location](https://github.com/mesege1/dprk_missile_stats/assets/135185712/1546825f-bede-4749-87dc-31c57239fcff)
