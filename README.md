@@ -43,20 +43,20 @@ link: https://www.nti.org/analysis/articles/cns-north-korea-missile-test-databas
 # Overview of facility locations
 ![image](https://github.com/mesege1/dprk_missile_stats/assets/135185712/1efb4a62-aa80-4392-8f86-cdb3340083c8)
 
+# Missile facility by number of tests
+![image](https://github.com/mesege1/dprk_missile_stats/assets/135185712/0bf8b1b9-de0b-4f84-a98c-2266b8a7c1b8)
+
 # Missile test counted by year
 ![image](https://github.com/mesege1/dprk_missile_stats/assets/135185712/379f36fe-971b-462a-bce3-81f934e1139f)
 
 # Missile traveled distance expansions
 ![missile_distance](https://github.com/mesege1/dprk_missile_stats/assets/135185712/3b36d56c-c7de-479d-9f83-916805dd1d20)
 
+# Missile landing locations
+![landing_location](https://github.com/mesege1/dprk_missile_stats/assets/135185712/5f4ece39-6521-4919-94a2-98b5b2ef95e2)
+
 # Number of missile test by type
 ![test_by_type](https://github.com/mesege1/dprk_missile_stats/assets/135185712/bbc22965-9139-43a8-bf82-6a21de1813f2)
-
-# Missile landing locations
-![landing_location](https://github.com/mesege1/dprk_missile_stats/assets/135185712/1546825f-bede-4749-87dc-31c57239fcff)
-
-# Missile facility by number of tests
-![image](https://github.com/mesege1/dprk_missile_stats/assets/135185712/0bf8b1b9-de0b-4f84-a98c-2266b8a7c1b8)
 
 # Future data projects
 Correlation between economic situation and missile tests
