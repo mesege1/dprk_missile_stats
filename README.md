@@ -59,4 +59,5 @@ link: https://www.nti.org/analysis/articles/cns-north-korea-missile-test-databas
 ![test_by_type](https://github.com/mesege1/dprk_missile_stats/assets/135185712/bbc22965-9139-43a8-bf82-6a21de1813f2)
 
 # Future data projects
-Correlation between economic situation and missile tests
+* Correlation between economic situation and missile tests
+* Analyze internal/external messages regarding missile tests
