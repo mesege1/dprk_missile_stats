@@ -12,6 +12,8 @@ The James Martin Center for Nonproliferation Studies (CNS) North Korea Missile T
 
 link: https://www.nti.org/analysis/articles/cns-north-korea-missile-test-database/
 
+* One thing to note: For this coding experience, the 'excel' file has been saved as 'csv' file.
+
 # Decision maker's interest
 1. Current DPRK missile testing capacities and capabilities
 2. Historical progression of DPRK missile testing
