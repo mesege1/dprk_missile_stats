@@ -362,7 +362,7 @@ def landing_zone(filepath):
 
 if __name__ == "__main__":
     df = load_file('data/north_korea_missile_test_database.csv')
-    #print(df.head(2))
+
     #facility_map(df)
     #test_by_time(df)
     #success_and_faile(df)
