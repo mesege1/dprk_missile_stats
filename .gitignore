@@ -163,7 +163,3 @@ cython_debug/
 data/
 # PowerPoint
 ppt/
-# Images
-img/kis.jpg
-img/kji.jpg
-img/kju.jpg
