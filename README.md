@@ -1,5 +1,4 @@
 ![image](https://github.com/mesege1/dprk_missile_stats/assets/135185712/f8a6c5ae-143e-4efc-9e42-b5027af11c95)
-
 # DPRK's Historic missile testing data analysis
 The Korean War commenced on June 25, 1950, and concluded on July 27, 1953, with the signing of an armistice that established a divided nation. Following the conclusion of World War II, Korea, previously under Japanese occupation, was partitioned along the 38th parallel. 
 
@@ -43,13 +42,14 @@ link: https://www.nti.org/analysis/articles/cns-north-korea-missile-test-databas
 # Overview of facility locations
 ![image](https://github.com/mesege1/dprk_missile_stats/assets/135185712/1efb4a62-aa80-4392-8f86-cdb3340083c8)
 * Total of 45 locations recorded
-* Size of North Korea is equivalent to Mississippi
+* The size of North Korea is equivalent to Mississippi, which poses a greater threat due to the close distance to South Korea and Japan
 * The capital of South Korea is extremely close and well under the target range
+* Although it seems peaceful, it is likely a ticking time-bomb
   
 # Missile facility by number of tests
 ![image](https://github.com/mesege1/dprk_missile_stats/assets/135185712/0bf8b1b9-de0b-4f84-a98c-2266b8a7c1b8)
 * Failure rate is relatively low
-* Top active testing facilities may require close monitoring
+* Top active testing sites may require close monitoring
   
 # Missile test counted by year
 ![image](https://github.com/mesege1/dprk_missile_stats/assets/135185712/379f36fe-971b-462a-bce3-81f934e1139f)
@@ -78,8 +78,9 @@ Pattern observation & analysis:
 ![test_by_type](https://github.com/mesege1/dprk_missile_stats/assets/135185712/bbc22965-9139-43a8-bf82-6a21de1813f2)
 * The number of SRBM (short-range ballistic missiles) test significantly increased
 * 'Unknown' types started appearing around 2017, and it's slowly increasing
-Assumetion
-* DPRK likely conducts missile operations covertly
+
+Assumption:
+* DPRK likely conducts missile testing operations covertly using the maneuverable systems
 
 # Summary
 This data analysis aimed to provide a holistic overview of the DPRK missile trends and shifts over time. And we found the pattern of a strategy to present a peaceful front while secretly preparing for war. They are willing to engage in diplomatic negotiations or peaceful gestures while maintaining military readiness and preparedness for potential conflicts. While they covertly expand their missile capacities and capabilities, the allies must increase attention.
@@ -87,3 +88,5 @@ This data analysis aimed to provide a holistic overview of the DPRK missile tren
 # Future data projects
 * Correlation between economic situation and missile tests
 * Analyze internal/external messages regarding missile tests
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=mesege1)](https://github.com/mesge1/github-readme-stats)
