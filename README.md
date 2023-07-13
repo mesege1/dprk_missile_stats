@@ -65,7 +65,7 @@ Pattern observation & analysis:
 * DPRK develops weapons, showcases them, agrees to halt, and returns with improved capabilities
   
 # Missile traveled distance expansions
-![missile_distance](https://github.com/mesege1/dprk_missile_stats/assets/135185712/3b36d56c-c7de-479d-9f83-916805dd1d20)
+![missile_distance](https://github.com/mesege1/dprk_missile_stats/assets/135185712/f4460f17-ae56-4b9d-9a97-20773586d368)
 * Maximum traveled distance significantly increased
 * However, the full capabilities are still unveiled
   
@@ -80,6 +80,9 @@ Pattern observation & analysis:
 * 'Unknown' types started appearing around 2017, and it's slowly increasing
 Assumetion
 * DPRK likely conducts missile operations covertly
+
+# Summary
+This data analysis aimed to provide a holistic overview of the DPRK missile trends and shifts over time. And we found the pattern of a strategy to present a peaceful front while secretly preparing for war. They are willing to engage in diplomatic negotiations or peaceful gestures while maintaining military readiness and preparedness for potential conflicts. While they covertly expand their missile capacities and capabilities, the allies must increase attention.
 
 # Future data projects
 * Correlation between economic situation and missile tests
