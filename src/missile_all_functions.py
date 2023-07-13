@@ -101,15 +101,15 @@ def test_by_time(filepath):
     plt.axvline(27, 0, 15, color='lightgray', linestyle='-', linewidth='2')
     # Kim Il-sung
     image1 = plt.imread('img/kis.jpg')
-    image_position1 = (75, 680) 
+    image_position1 = (200, 1340) 
     plt.figimage(image1, image_position1[0], image_position1[1], alpha=1, zorder=10)
     # Kim Jung-il
     image2 = plt.imread('img/kji.jpg')
-    image_position2 = (420, 680) 
+    image_position2 = (900, 1340) 
     plt.figimage(image2, image_position2[0], image_position2[1], alpha=1, zorder=10)
     # Kim Jong-un
     image3 = plt.imread('img/kju.jpg')
-    image_position3 = (900, 680) 
+    image_position3 = (1850, 1340) 
     plt.figimage(image3, image_position3[0], image_position3[1], alpha=1, zorder=10)
     # Add comments next to each pictures
     plt.text(0.8, 65,'Kim, Il-sung\nDPRK Founder\n1966-1994', fontsize=12, color='black')
@@ -120,7 +120,7 @@ def test_by_time(filepath):
     y1 = merged_df.loc[0, '# of Test']
     comment1 = 'First Scud-B missile test firing'
     line_length1 = 24.5  # Extend the line by 5 points
-    plt.text(x1 + 4, y1 + 24, comment1, ha='center', va='bottom')
+    plt.text(x1 + 4.2, y1 + 24, comment1, ha='center', va='bottom')
     plt.plot([x1, x1], [y1, y1 + line_length1], color='black', linewidth=1, linestyle='--')
     # First star
     star_x1 = x1
@@ -143,7 +143,7 @@ def test_by_time(filepath):
     y3 = merged_df.loc[10, '# of Test']
     comment3 = 'DPRK and the US signed the Agreed Framework'
     line_length3 = 60
-    plt.text(x3 + 6.5, y3 + 59, comment3, ha='center', va='bottom')
+    plt.text(x3 + 6.7, y3 + 59, comment3, ha='center', va='bottom')
     plt.plot([x3, x3], [y3, y3 + line_length3], color='black', linewidth=1, linestyle='--')
     # Third star
     star_x3 = x3
@@ -216,7 +216,7 @@ def test_by_time(filepath):
     star_y9 = y9 + 13  # Adjust the vertical position of the star
     plt.plot(star_x9, star_y9, marker='*', color='red', markersize=12)
     # Display the bar chart
-    plt.show()    
+    plt.show()
 
 ################################################################################################################################################################
 
@@ -363,6 +363,7 @@ def landing_zone(filepath):
 if __name__ == "__main__":
     df = load_file('data/north_korea_missile_test_database.csv')
 
+    # Remove # in front of code as needed.
     #facility_map(df)
     #test_by_time(df)
     #success_and_faile(df)
